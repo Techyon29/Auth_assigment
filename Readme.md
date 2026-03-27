@@ -2,6 +2,11 @@
 
 A simple full-stack application to add and view users, built with React, Node.js, Express, and MongoDB.
 
+## Project Live
+1. [Back End](https://auth-assigment.onrender.com)
+2. [Front End](https://auth-assigment-ten.vercel.app)
+
+NOTE - You need to start backend server before visiting frontend by click on above backend link
 ## Features
 
 - Submit user data (Name, Email) via a form
