@@ -28,7 +28,7 @@ A simple full-stack application to add and view users, built with React, Node.js
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Techyon29/Auth_assigment/blob/main/Server/Readne.md
 cd Auth_assignment
 ```
 
