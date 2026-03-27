@@ -1,6 +1,6 @@
-import UserModel from "./Modal.js";
+import UserModel from "./Model.js";
 
-export async function handleSumbit(req,res){
+export async function handleSubmit(req,res){
     try {
         const {name ,email} = req.body;
     if(!name || !email){

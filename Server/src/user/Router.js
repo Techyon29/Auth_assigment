@@ -1,7 +1,7 @@
 import express from 'express';
-import { handleSumbit , handleGetAllUsers } from './Controller.js';
+import { handleSubmit , handleGetAllUsers } from './Controller.js';
 export const UserRouter = express.Router();
 
 
-UserRouter.post('/addUser',handleSumbit)
+UserRouter.post('/addUser',handleSubmit)
 UserRouter.get('/getAllUsers',handleGetAllUsers)
